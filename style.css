@@ -25,7 +25,7 @@ body {
 .hero-text {
   color: gray;
   font-size: 20vw;
-  font-family: "garamomd", serif;
+  font-family: "garamond", serif;
 
 }
 
@@ -89,6 +89,15 @@ h1 {
 
 .pic {
   margin-top: 40px;
+}
+
+.pull {
+  float: right;
+  width: 400px;
+  background-color: inherit;
+  font-family: "Georgia";
+  font-size: 30px;
+  margin-left: 50px;
 }
 
 .space {
