@@ -1,24 +1,25 @@
 /* hero */
 
 .hero {
+
+  width: 100vw;
+  height: 100vh;
+
   background-image: url('images/muerta.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
-  position: relative;
-  height: 100%;
-}
 
-.big_center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
+
 }
 
 .hero-text {
-  display: inline-block;
-  top: 50%;
   color: gray;
   font-size: 20vw;
-  padding-top: 15%;
   font-family: "garamomd", serif;
 }
 
