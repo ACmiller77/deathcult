@@ -4,6 +4,8 @@
   background-image: url('images/muerta.jpg');
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
   height: 100%;
 }
 
@@ -15,7 +17,7 @@
   display: inline-block;
   top: 50%;
   color: gray;
-  font-size: 200px;
+  font-size: 20vw;
   padding-top: 15%;
   font-family: "garamomd", serif;
 }
