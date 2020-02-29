@@ -15,8 +15,28 @@
   display: inline-block;
   top: 50%;
   color: gray;
-  font-size: 60px;
-  padding-top: 20%;
+  font-size: 200px;
+  padding-top: 15%;
+  font-family: "garamomd", serif;
+}
+
+.credit {
+  text-align: right;
+}
+
+.credit_also {
+  display: inline-block;
+}
+
+.credit2 {
+  font-family: "Roboto";
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: gray;
+}
+
+#main2 {
+  background-color: black;
 }
 
 #author {
@@ -31,5 +51,49 @@
 
 .byline {
   font-size: 20px;
-  font-family: "Proxima Nova"
+  font-family: "Roboto";
+  letter-spacing: 3px;
 }
+
+h1 {
+  color: gray;
+  font-family: "Roboto";
+  font-size: 3em;
+}
+
+#story {
+  padding-bottom: 50px;
+}
+
+.bodytext {
+  color: white;
+  font-size: 18px;
+  font-family: "Roboto";
+  letter-spacing: .7px
+}
+
+.pic {
+  margin-top: 40px;
+}
+
+.space {
+  margin-bottom: 70px;
+}
+
+.bio {
+  background-color:gray;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #262626;
+}
+
+
+
+
+
+
+
+
+
+
+=
