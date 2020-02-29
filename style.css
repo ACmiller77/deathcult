@@ -9,7 +9,7 @@
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-attachment: initial;
+  background-attachment: fixed;
 
   display: flex;
   justify-content: center;
@@ -74,6 +74,11 @@ h1 {
   font-size: 18px;
   font-family: "Roboto";
   letter-spacing: .7px
+}
+
+.indent {
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .pic {
