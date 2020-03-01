@@ -1,13 +1,14 @@
 /* hero */
 
 body {
-  overflow-x: hidden;
+  
 }
 
 .hero {
 
   width: 100vw;
   height: 100vh;
+  max-width: 100%;
 
   background-image: url('images/muerta.jpg');
   background-size: cover;
@@ -46,7 +47,8 @@ body {
 
 #main2 {
   background-color: black;
-  width: 100vw
+  width: 100vw;
+  max-width: 100%;
 }
 
 #author {
