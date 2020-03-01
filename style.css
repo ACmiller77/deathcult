@@ -1,7 +1,7 @@
 /* hero */
 
 body {
-  
+
 }
 
 .hero {
@@ -84,9 +84,10 @@ h1 {
 
 .bodytext {
   color: white;
-  font-size: 18px;
-  font-family: "Roboto";
-  letter-spacing: .7px
+  font-size: 17px;
+  font-family: "Spartan";
+  letter-spacing: .7px;
+  line-height: 160%;
 }
 
 .pic {
